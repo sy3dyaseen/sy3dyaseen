@@ -8,7 +8,7 @@ Hi , I'm <b>Syed Yaseen</b> a Full Stack Web-Developer (MERN Stack)
 ## About me
 -  I'm a <b>Mechanical Engineering</b> graduate from Visvesvaraya Technological University. 
 -  I’m currently learning <i>Full Stack Web Development</i> at Masai School.
--  I am a passionate Web Developer who loves to code, solve real life problems & build Websites.
+-  I am a passionate in learnig, creating new things & problem solving.
 
 
 ## Skills
